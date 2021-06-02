@@ -1,0 +1,95 @@
+body{
+  text-align: center;
+  margin: 0px;
+}
+.container-fluid{
+  background-color: #867AE9;
+  padding: 3% 2%;
+}
+.nav-image{
+  color: #fff;
+}
+.heading{
+  background-color: #867AE9;
+  color: #fff;
+  padding: 4% 9%;
+  text-align: left;
+}
+
+.main-heading{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 2.5rem;
+}
+.main-para{
+  font-size: 1rem;
+}
+#courses{
+  padding: 5% 10%;
+  text-align: center;
+}
+#facilities{
+  background-color: #867AE9;
+  text-align: center;
+  padding: 7% 9%;
+  color: #fff;
+}
+.carousel-item{
+  padding-bottom: 10%;
+}
+#down{
+  text-align:center;
+  padding:7% 9%;
+}
+#faculties{
+  padding: 7% 15%;
+  background-color: #867AE9;
+  color: #fff;
+}
+#progress{
+  padding: 7% 15%;
+}
+.data{
+  text-align:left;
+  margin-left: 100px;
+}
+.RED{
+  color: red;
+}
+.YELLOW{
+  color: yellow;
+}
+.GREEN{
+  color: green;
+}
+.TURQUISE{
+  color: turqouise;
+}
+
+/* registration */
+#register{
+  padding:4% 9%;
+}
+#title{
+  background-color:  #867AE9;
+}
+#footer{
+  background-color:#867AE9;
+  color: #fff;
+  text-align: center;
+  padding: 5% 10%
+}
+
+.icon-footer{
+  margin: 20px 10px;
+}
+
+
+/* phone */
+
+@media(max-width:1028px){
+  .heading{
+    text-align: center;}
+  .card{
+    padding-top: 20%;
+  }
+  }
